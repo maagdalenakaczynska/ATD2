@@ -1,0 +1,5 @@
+[ { _id: 'Male', avgH: 166.7346950726979, avgW: 70.00976575121163 },
+  { _id: 'Female',
+    avgH: 166.80967925294357,
+    avgW: 70.11264514819327 },
+  { _id: null, avgH: null, avgW: null } ]
